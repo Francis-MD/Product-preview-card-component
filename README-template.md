@@ -6,15 +6,12 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Screenshot Results](#screenshot)
+  - [Solution Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -31,7 +28,7 @@ Users should be able to:
 ![](./design/Solution-desktop-design.JPG)
 ![](./design/Solution-mobile-design.JPG)
 
-### Links
+### Solution Links
 
 - Solution URL: https://github.com/Francis-MD/Product-preview-card-component
 - Live Site URL: https://francis-md.github.io/Product-preview-card-component/
